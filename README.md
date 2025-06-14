@@ -1,6 +1,8 @@
 ## XAUUSD Gold Price Tracker: 2004–Present
 Gold price data with daily & hourly timeframes
 
+<img src="dataset-cover.jpg">
+
 ## About Dataset
 This dataset contains historical daily gold price data for XAU/USD starting from 2004-06-11 up to the most recent available date. It's automatically updated every weekday, making it useful for anyone doing financial analysis, trading strategy development, or time-series modeling.
 
